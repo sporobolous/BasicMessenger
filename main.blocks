@@ -1,0 +1,3 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="h+6wNkw(Jd1@wVQou:v~">selectedMessage</variable><variable id="DNzkS/p-_gW3q8Xu#+1d">deviceID</variable><variable id="v%Rjn-!ooy[*tAh(0zz)">lastReceivedMessage</variable></variables><comment id="[KucP`sJsqBDs~0E`y$/" x="1769" y="368" w="380" h="120">
+Tracks current message selection (1-5)
+</comment></xml>
